@@ -1,0 +1,5 @@
+2026-08-11 10:00:00 INFO Server started
+2026-08-11 10:01:00 ERROR Database failed
+2026-08-11 10:02:00 WARNING Memory high
+2026-08-11 10:03:00 DEBUG Cache checked
+2026-08-11 10:04:00 INFO Request received
