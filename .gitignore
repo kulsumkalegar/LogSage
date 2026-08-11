@@ -1,5 +1,10 @@
+# Go
 *.exe
 *.out
+
+# VS Code
 .vscode/
+
+# OS
 .DS_Store
 Thumbs.db
