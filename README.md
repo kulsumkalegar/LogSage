@@ -35,3 +35,13 @@ LogSage/
 ├── go.mod
 ├── .gitignore
 └── README.md
+
+## Future Improvements
+
+- Add command-line arguments for selecting log files
+- Add log-level filtering
+- Add keyword search
+- Add timestamp-based filtering
+- Generate more detailed reports
+- Add unit tests
+- Support additional log formats
